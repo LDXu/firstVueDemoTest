@@ -1,5 +1,11 @@
 # awesomepos
 
+firstVuewDemo
+
+参考技术胖的博客
+具体链接http://jspang.com/2017/05/22/vuedemo/
+
+
 > A Vue.js project
 
 ## Build Setup
