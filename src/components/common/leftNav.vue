@@ -8,12 +8,12 @@
 
             <li>
                 <i class="icon iconfont icon-dianpu"></i>
-                <div>店铺</div>
+                <div>店铺4</div>
             </li>
 
             <li>
                 <i class="icon iconfont icon-hanbao"></i>
-                <div>商品</div>
+                <div>商品5</div>
             </li>
 
             <li>
