@@ -8,7 +8,7 @@
 
             <li>
                 <i class="icon iconfont icon-dianpu"></i>
-                <div>店铺4</div>
+                <div>店铺41</div>
             </li>
 
             <li>
