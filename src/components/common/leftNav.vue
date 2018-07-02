@@ -18,7 +18,7 @@
 
             <li>
                 <i class="icon iconfont icon-huiyuanqia"></i>
-                <div>会员</div>
+                <div>会员6</div>
             </li>
 
             <li>
