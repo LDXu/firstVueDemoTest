@@ -3,7 +3,7 @@
         <ul>
             <li>
                 <i class="icon iconfont icon-wodezichan"></i>
-                <div>收银1</div>
+                <div>收银2</div>
             </li>
 
             <li>
